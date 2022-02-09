@@ -21,4 +21,4 @@ Plantilla para sitios Wordpress a la medida con WP Headless y Next.js.
 ### Documentaciíon
 - [Creación de plantillas] https://codex.wordpress.org/Theme_Development
 - [Jerarquía de templates] https://developer.wordpress.org/themes/basics/template-hierarchy/
-
+- [Documentación en WP] https://developer.wordpress.org/coding-standards/inline-documentation-standards/php/

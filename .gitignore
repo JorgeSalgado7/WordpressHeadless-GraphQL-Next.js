@@ -1,0 +1,9 @@
+#ALMACENAMIENTO DE MAC OS
+.DS_Store
+
+#MODULOS DE NODE.JS
+node_modules
+
+
+#VARIABLES DE ENTORNO
+.env
