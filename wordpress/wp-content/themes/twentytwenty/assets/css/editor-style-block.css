@@ -120,7 +120,6 @@ Inter variable font. Usage:
 }
 
 .editor-post-title__block .editor-post-title__input,
-.editor-styles-wrapper .wp-block-post-title,
 .editor-styles-wrapper .wp-block h1,
 .editor-styles-wrapper .wp-block h2,
 .editor-styles-wrapper .wp-block h3,
@@ -137,7 +136,6 @@ Inter variable font. Usage:
 @supports ( font-variation-settings: normal ) {
 
 	.editor-post-title__block .editor-post-title__input,
-	.editor-styles-wrapper .wp-block-post-title,
 	.editor-styles-wrapper .wp-block h1,
 	.editor-styles-wrapper .wp-block h2,
 	.editor-styles-wrapper .wp-block h3,
@@ -237,7 +235,6 @@ Inter variable font. Usage:
 }
 
 .editor-post-title__block .editor-post-title__input,
-.editor-styles-wrapper .wp-block-post-title,
 .editor-styles-wrapper .wp-block h1,
 .editor-styles-wrapper .wp-block h2,
 .editor-styles-wrapper .wp-block h3,
@@ -254,7 +251,6 @@ Inter variable font. Usage:
 }
 
 .editor-post-title__block .editor-post-title__input,
-.editor-styles-wrapper .wp-block-post-title,
 .editor-styles-wrapper .wp-block h1 {
 	font-size: 36px;
 	font-weight: 800;
@@ -290,12 +286,6 @@ Inter variable font. Usage:
 }
 
 /* POST TITLE */
-
-.editor-styles-wrapper .wp-block-post-title {
-	max-width: 1000px;
-	margin: 0 auto;
-	text-align: center;
-}
 
 .wp-block.editor-post-title__block {
 	max-width: 1000px;
@@ -1227,7 +1217,6 @@ hr.wp-block-separator.is-style-dots::before {
 	/* TYPOGRAPHY */
 
 	.editor-post-title__block .editor-post-title__input,
-	.editor-styles-wrapper .wp-block-post-title,
 	.editor-styles-wrapper .wp-block h1 {
 		font-size: 64px;
 	}
@@ -1406,7 +1395,6 @@ hr.wp-block-separator.is-style-dots::before {
 	/* TYPOGRAPHY */
 
 	.editor-post-title__block .editor-post-title__input,
-	.editor-styles-wrapper .wp-block-post-title,
 	.editor-styles-wrapper .wp-block h1 {
 		font-size: 84px;
 	}
